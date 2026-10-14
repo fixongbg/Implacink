@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+*.aep
+*.aepx
+*.log
+work/
